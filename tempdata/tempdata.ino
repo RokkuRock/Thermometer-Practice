@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid     = "Unconfirmed Uma";
-const char* password = "rock88868";
+const char* ssid     = "YourNetworkName";
+const char* password = "YourNetworkPassword";
 
 const char* host = "192.168.43.59";
 const uint16_t port = 25565;
